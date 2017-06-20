@@ -1,4 +1,8 @@
-print 'first line'
+line 01
+# comment
 print 'second line'
 print 'third line'
 print 'fourth line'
+line 05
+line 07
+line 08
